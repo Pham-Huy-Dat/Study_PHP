@@ -1,6 +1,6 @@
 <?php
 	include("include/common.php");
-	$data = db_select("SELECT * FROM product");
+	$data = db_select("SELECT * FROM product ORDER BY ID DESC");
 	
 ?>
 <!DOCTYPE html>
