@@ -1,5 +1,4 @@
 <?php
-
 /*
  * Thay "hoc_php" bằng tên thư mục của bạn ở htdocs
  */
